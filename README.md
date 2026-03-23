@@ -1,1 +1,1 @@
-# Mold-Outbreak-Investigation-Solr-Spark
+# Mold-Outbreak-Investigation-NiFi-and-Solr
